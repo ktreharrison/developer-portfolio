@@ -4,6 +4,8 @@ My portfolio website.
 
 ![developer portfolio page](developer-page.png)
 
+The full page is **[here](https://ktreharrison-tech-portfolio.netlify.app/)**
+
 ## Tech Stack
 
 * HTML
